@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [Spotify Clone](http://github.com/pranaypr6)!
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Looking forward to Contribute more to Open Source projects
 
 ### Connect with me:
 
