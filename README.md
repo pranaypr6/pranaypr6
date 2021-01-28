@@ -3,7 +3,7 @@
 ## I'm a Student and a Web developer !
 ## Portfolio [here](https://pranayburra.netlify.app/)
 
-- My builds <br />
+### My builds <br />
 - Amazon Clone - React, Firebase  [here](https://fir-3bc21.firebaseapp.com/)<br />
 - Chat Application with Websocket [here](https://chatwithprannu.netlify.app/)<br />
 - MessagewithQRCode [here](https://pranaypr6.github.io/MessagewithQRCode/)<br />
