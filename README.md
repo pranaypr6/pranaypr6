@@ -3,15 +3,15 @@
 ## I'm a Student and a Web developer !
 ## Portfolio [here](https://pranayburra.netlify.app/)
 
-- My builds 
--Amazon Clone - React, Firebase[here](https://fir-3bc21.firebaseapp.com/)<br />
--Chat Application with Websocket[here](https://chatwithprannu.netlify.app/)<br />
--MessagewithQRCode[here](https://pranaypr6.github.io/MessagewithQRCode/)<br />
--Pixabay-api[here](https://pranaypr6.github.io/pixabay-api/)<br />
--Ecommerce site - Tshirts[here](https://codetshirtstore.netlify.app/)<br />
--Burger App[here](https://pranaypr6.github.io/burgerApp/)<br />
--Coding site[here](https://iwritecodebootstrap.netlify.app/#)<br />
--Voice synthesis[here](https://voicerecognitionsynthesis.netlify.app/)<br />
+- My builds <br />
+- Amazon Clone - React, Firebase[here](https://fir-3bc21.firebaseapp.com/)<br />
+- Chat Application with Websocket[here](https://chatwithprannu.netlify.app/)<br />
+- MessagewithQRCode[here](https://pranaypr6.github.io/MessagewithQRCode/)<br />
+- Pixabay-api[here](https://pranaypr6.github.io/pixabay-api/)<br />
+- Ecommerce site - Tshirts[here](https://codetshirtstore.netlify.app/)<br />
+- Burger App[here](https://pranaypr6.github.io/burgerApp/)<br />
+- Coding site[here](https://iwritecodebootstrap.netlify.app/#)<br />
+- Voice synthesis[here](https://voicerecognitionsynthesis.netlify.app/)<br />
 
 
 
