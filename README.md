@@ -1,10 +1,19 @@
 ### Hello there, I'm Pranay 👋
 
 ## I'm a Student and a Web developer !
+## Portfolio [here](https://pranayburra.netlify.app/)
 
-- 🔭 I’m currently working on a [Spotify Clone](http://github.com/pranaypr6)!
-- 👯 I’m looking to collaborate with other developers
-- 🥅 Looking forward to Contribute more to Open Source projects
+- My builds 
+[Amazon Clone - React, Firebase](https://fir-3bc21.firebaseapp.com/)
+[Chat Application with Websocket](https://chatwithprannu.netlify.app/)
+[MessagewithQRCode](https://pranaypr6.github.io/MessagewithQRCode/)
+[Pixabay-api](https://pranaypr6.github.io/pixabay-api/)
+[Ecommerce site - Tshirts](https://codetshirtstore.netlify.app/)
+[Burger App](https://pranaypr6.github.io/burgerApp/)
+[Coding site](https://iwritecodebootstrap.netlify.app/#)
+[Voice synthesis](https://voicerecognitionsynthesis.netlify.app/)
+
+
 
 ### Connect with me:
 
