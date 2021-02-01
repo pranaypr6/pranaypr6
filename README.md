@@ -6,6 +6,7 @@
 ###   My builds 🔥 <br />
 - Amazon Clone - React, Firebase  [here](https://fir-3bc21.firebaseapp.com/)<br />
 - LinkedIn Clone - React, Firebase  [here](https://linkedin-clone-b0bc0.firebaseapp.com/)<br />
+- Tinder Clone - React, Firebase  [here](https://tinder-20fdc.firebaseapp.com//)<br />
 - Chat Application with Websocket [here](https://chatwithprannu.netlify.app/)<br />
 - MessagewithQRCode [here](https://pranaypr6.github.io/MessagewithQRCode/)<br />
 - Pixabay-api [here](https://pranaypr6.github.io/pixabay-api/)<br />
